@@ -8,3 +8,5 @@ The aim of the project is to design a set of the new functionalities and indepen
 DL4DH project is solved by the Library of the Czech Academy of Sciences, the National Library of the Czech Republic and Moravian Library in Brno and IT company InQool.
 
 DL4DH project is supported by the Ministry of Culture of the Czech Rebublic under ID number DG20P02OVV002.
+
+Project main coordinator: Martin Lhoták lhotak@knav.cz
