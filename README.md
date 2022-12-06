@@ -13,6 +13,8 @@ Project main coordinator: Martin Lhoták lhotak@knav.cz
 
 Main components of DH4DH solution:
 
-DL4DH Feeder https://github.com/LIBCAS/DL4DH-Feeder
+DL4DH Feeder https://github.com/LIBCAS/DL4DH-Feede
+
 Kramerius+ https://github.com/LIBCAS/DL4DH-Kramerius-plus
+
 TEI Converter https://github.com/LIBCAS/DL4DH-TEI-Converter
