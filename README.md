@@ -10,3 +10,9 @@ DL4DH project is solved by the Library of the Czech Academy of Sciences, the Nat
 DL4DH project is supported by the Ministry of Culture of the Czech Rebublic under ID number DG20P02OVV002.
 
 Project main coordinator: Martin Lhoták lhotak@knav.cz
+
+Main components of DH4DH solution:
+
+DL4DH Feeder https://github.com/LIBCAS/DL4DH-Feeder
+Kramerius+ https://github.com/LIBCAS/DL4DH-Kramerius-plus
+TEI Converter https://github.com/LIBCAS/DL4DH-TEI-Converter
