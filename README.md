@@ -11,9 +11,9 @@ DL4DH project is supported by the Ministry of Culture of the Czech Rebublic unde
 
 Project main coordinator: Martin Lhoták lhotak@knav.cz
 
-Main components of DH4DH solution:
+Main components of DL4DH solution:
 
-DL4DH Feeder https://github.com/LIBCAS/DL4DH-Feede
+DL4DH Feeder https://github.com/LIBCAS/DL4DH-Feeder
 
 Kramerius+ https://github.com/LIBCAS/DL4DH-Kramerius-plus
 
